@@ -9,7 +9,7 @@ The project was divided into two main dataset: Training and Testing.
 
 ## Skills
 
-Outliers using IQR, Regression Statistics, Predictive Analysis, p-value, error & residuals
+Outlier Removal using IQR, Regression Statistics, Predictive Analysis, linear regression, p-value, error & residuals.
 
 ## Tech-Stack
 
