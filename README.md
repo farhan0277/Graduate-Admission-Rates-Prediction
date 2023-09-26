@@ -7,7 +7,6 @@ This project involved the use of regression analysis to predict the chances of g
 
 The project was divided into two main dataset: Training and Testing.
 
-
 ## Skills
 
 Outliers using IQR, Regression Statistics, Predictive Analysis, p-value, error & residuals
@@ -15,6 +14,9 @@ Outliers using IQR, Regression Statistics, Predictive Analysis, p-value, error &
 ## Tech-Stack
 
 Microsoft Excel
+
+![y_pred](https://github.com/farhan0277/Graduate-Admission-Rates-Prediction/assets/144512640/047f6e7b-7fd5-4993-b62e-fd0fc40030ca)
+
 ## Training Dataset
 
 - Data Preprocessing: The training dataset was preprocessed to remove outliers and ensure data quality.
